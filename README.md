@@ -1,2 +1,2 @@
 # messymind
-While embracing the messy minds with-in, it is important to organize everything we can.  
+While embracing messy minds with-in, it is important to stay organized. 
